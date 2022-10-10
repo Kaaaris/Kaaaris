@@ -2,7 +2,9 @@
 - 👀 I’m interested by html
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on website
+- Go join my server Discord for talk about informatique.
 
+https://discord.gg/rcvG6aDn
 
 <!---
 Kaaaris/Kaaaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
